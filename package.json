@@ -2,11 +2,9 @@
   "name": "gifting-site",
   "version": "1.0.0",
   "description": "A site that offers gift ideas for friends and family",
-  "main": "public/js/main.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "public/js/main.js",
-    "devStart": "public/js/main.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
